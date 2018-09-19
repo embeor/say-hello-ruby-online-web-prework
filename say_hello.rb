@@ -1,1 +1,2 @@
-# Build your say_hello method here
+name= "Ruby Programmer"
+puts "Hello #{name}"
