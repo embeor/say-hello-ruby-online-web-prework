@@ -1,2 +1,4 @@
-name= "Ruby Programmer"
-puts "Hello #{name}"
+def greeting(name="Ruby programmer")
+  puts "Hello, #{name}"
+end
+
